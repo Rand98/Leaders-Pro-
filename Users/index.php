@@ -223,7 +223,7 @@ include ('../config/db.php');
                                                 
                                             <?php echo $_SESSION['Uname']; ?>
                                             </h2>
-                                                <span>Email :</span>
+                                                <span>Age :</span>
                                                 <h2>
                                                 
                                                 
